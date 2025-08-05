@@ -1,0 +1,2 @@
+# Weather-Impact-on-Honey-Production-in-Alberta-2017-2021-
+This project investigates how weather patterns affect honey production in Alberta, Canada. Using Python and Jupyter Notebook (honey_bee.ipynb) for data analysis and a detailed research writeup (Weather Impact on Honey Production in Alberta.docx), the study explores correlations between weather metrics and honey yield at various bee life stages.
